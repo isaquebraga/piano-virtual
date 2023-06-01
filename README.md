@@ -1,6 +1,6 @@
 # Piano Virtual
 
-![screenshot]()
+![screenshot](https://github.com/isaquebraga/piano-virtual/blob/main/screenshot.png)
 
 Este é um repositório contendo um piano virtual feito em HTML, CSS e JavaScript. Com este piano, os usuários podem tocar várias notas e acordes, experimentando diferentes melodias e harmonias.
 
